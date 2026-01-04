@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\buoi3 ham va pham vi truy cap\\bai tap buoi 3 bai 4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5A20D740-CB55-41A0-9736-65DAF1FD001C}|bai tap buoi 3 bai 4.csproj|f:\\buoi3 ham va pham vi truy cap\\bai tap buoi 3 bai 4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A20D740-CB55-41A0-9736-65DAF1FD001C}|bai tap buoi 3 bai 4.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\buoi3 ham va pham vi truy cap\\bai tap buoi 3 bai 3\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\buoi3 ham va pham vi truy cap\\bai tap buoi 3 bai 3\\Program.cs",
+              "RelativeDocumentMoniker": "..\\bai tap buoi 3 bai 3\\Program.cs",
+              "ToolTip": "F:\\buoi3 ham va pham vi truy cap\\bai tap buoi 3 bai 3\\Program.cs",
+              "RelativeToolTip": "..\\bai tap buoi 3 bai 3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T15:11:15.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\buoi3 ham va pham vi truy cap\\bai tap buoi 3 bai 4\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "F:\\buoi3 ham va pham vi truy cap\\bai tap buoi 3 bai 4\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwB4AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T14:52:34.327Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+F:\buoi3 ham va pham vi truy cap\buoi 3 ham va pham vi truy cap\bin\Debug\net9.0\buoi 3 ham va pham vi truy cap.exe
+F:\buoi3 ham va pham vi truy cap\buoi 3 ham va pham vi truy cap\bin\Debug\net9.0\buoi 3 ham va pham vi truy cap.deps.json
+F:\buoi3 ham va pham vi truy cap\buoi 3 ham va pham vi truy cap\bin\Debug\net9.0\buoi 3 ham va pham vi truy cap.runtimeconfig.json
+F:\buoi3 ham va pham vi truy cap\buoi 3 ham va pham vi truy cap\bin\Debug\net9.0\buoi 3 ham va pham vi truy cap.dll
+F:\buoi3 ham va pham vi truy cap\buoi 3 ham va pham vi truy cap\bin\Debug\net9.0\buoi 3 ham va pham vi truy cap.pdb
+F:\buoi3 ham va pham vi truy cap\buoi 3 ham va pham vi truy cap\obj\Debug\net9.0\buoi 3 ham va pham vi truy cap.GeneratedMSBuildEditorConfig.editorconfig
+F:\buoi3 ham va pham vi truy cap\buoi 3 ham va pham vi truy cap\obj\Debug\net9.0\buoi 3 ham va pham vi truy cap.AssemblyInfoInputs.cache
+F:\buoi3 ham va pham vi truy cap\buoi 3 ham va pham vi truy cap\obj\Debug\net9.0\buoi 3 ham va pham vi truy cap.AssemblyInfo.cs
+F:\buoi3 ham va pham vi truy cap\buoi 3 ham va pham vi truy cap\obj\Debug\net9.0\buoi 3 ham va pham vi truy cap.csproj.CoreCompileInputs.cache
+F:\buoi3 ham va pham vi truy cap\buoi 3 ham va pham vi truy cap\obj\Debug\net9.0\buoi 3 ham va pham vi truy cap.dll
+F:\buoi3 ham va pham vi truy cap\buoi 3 ham va pham vi truy cap\obj\Debug\net9.0\refint\buoi 3 ham va pham vi truy cap.dll
+F:\buoi3 ham va pham vi truy cap\buoi 3 ham va pham vi truy cap\obj\Debug\net9.0\buoi 3 ham va pham vi truy cap.pdb
+F:\buoi3 ham va pham vi truy cap\buoi 3 ham va pham vi truy cap\obj\Debug\net9.0\buoi 3 ham va pham vi truy cap.genruntimeconfig.cache
+F:\buoi3 ham va pham vi truy cap\buoi 3 ham va pham vi truy cap\obj\Debug\net9.0\ref\buoi 3 ham va pham vi truy cap.dll

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\buoi3 ham va pham vi truy cap\\buoi 3 ham va pham vi truy cap\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EE59A18B-33B4-41E9-AE7A-6F65CF0F0698}|buoi 3 ham va pham vi truy cap.csproj|f:\\buoi3 ham va pham vi truy cap\\buoi 3 ham va pham vi truy cap\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE59A18B-33B4-41E9-AE7A-6F65CF0F0698}|buoi 3 ham va pham vi truy cap.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\buoi3 ham va pham vi truy cap\\buoi 3 ham va pham vi truy cap\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "F:\\buoi3 ham va pham vi truy cap\\buoi 3 ham va pham vi truy cap\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwB4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T13:41:18.095Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

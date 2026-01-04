@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "buoi 3 ham va pham vi truy cap/1.0.0": {
+        "runtime": {
+          "buoi 3 ham va pham vi truy cap.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "buoi 3 ham va pham vi truy cap/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

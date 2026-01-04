@@ -1,0 +1,14 @@
+F:\buoi3 ham va pham vi truy cap\bai tap buoi 3 bai 4\bin\Debug\net9.0\bai tap buoi 3 bai 4.exe
+F:\buoi3 ham va pham vi truy cap\bai tap buoi 3 bai 4\bin\Debug\net9.0\bai tap buoi 3 bai 4.deps.json
+F:\buoi3 ham va pham vi truy cap\bai tap buoi 3 bai 4\bin\Debug\net9.0\bai tap buoi 3 bai 4.runtimeconfig.json
+F:\buoi3 ham va pham vi truy cap\bai tap buoi 3 bai 4\bin\Debug\net9.0\bai tap buoi 3 bai 4.dll
+F:\buoi3 ham va pham vi truy cap\bai tap buoi 3 bai 4\bin\Debug\net9.0\bai tap buoi 3 bai 4.pdb
+F:\buoi3 ham va pham vi truy cap\bai tap buoi 3 bai 4\obj\Debug\net9.0\bai tap buoi 3 bai 4.GeneratedMSBuildEditorConfig.editorconfig
+F:\buoi3 ham va pham vi truy cap\bai tap buoi 3 bai 4\obj\Debug\net9.0\bai tap buoi 3 bai 4.AssemblyInfoInputs.cache
+F:\buoi3 ham va pham vi truy cap\bai tap buoi 3 bai 4\obj\Debug\net9.0\bai tap buoi 3 bai 4.AssemblyInfo.cs
+F:\buoi3 ham va pham vi truy cap\bai tap buoi 3 bai 4\obj\Debug\net9.0\bai tap buoi 3 bai 4.csproj.CoreCompileInputs.cache
+F:\buoi3 ham va pham vi truy cap\bai tap buoi 3 bai 4\obj\Debug\net9.0\bai tap buoi 3 bai 4.dll
+F:\buoi3 ham va pham vi truy cap\bai tap buoi 3 bai 4\obj\Debug\net9.0\refint\bai tap buoi 3 bai 4.dll
+F:\buoi3 ham va pham vi truy cap\bai tap buoi 3 bai 4\obj\Debug\net9.0\bai tap buoi 3 bai 4.pdb
+F:\buoi3 ham va pham vi truy cap\bai tap buoi 3 bai 4\obj\Debug\net9.0\bai tap buoi 3 bai 4.genruntimeconfig.cache
+F:\buoi3 ham va pham vi truy cap\bai tap buoi 3 bai 4\obj\Debug\net9.0\ref\bai tap buoi 3 bai 4.dll
