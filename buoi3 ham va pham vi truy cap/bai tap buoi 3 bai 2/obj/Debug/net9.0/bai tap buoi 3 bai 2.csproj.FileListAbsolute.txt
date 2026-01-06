@@ -12,3 +12,33 @@ F:\buoi3 ham va pham vi truy cap\bai tap buoi 3 bai 2\obj\Debug\net9.0\refint\ba
 F:\buoi3 ham va pham vi truy cap\bai tap buoi 3 bai 2\obj\Debug\net9.0\bai tap buoi 3 bai 2.pdb
 F:\buoi3 ham va pham vi truy cap\bai tap buoi 3 bai 2\obj\Debug\net9.0\bai tap buoi 3 bai 2.genruntimeconfig.cache
 F:\buoi3 ham va pham vi truy cap\bai tap buoi 3 bai 2\obj\Debug\net9.0\ref\bai tap buoi 3 bai 2.dll
+F:\BUOI 2 KIEU GIU LIEU VA BIEN\buoi3 ham va pham vi truy cap\bai tap buoi 3 bai 2\obj\Debug\net9.0\bai tap buoi 3 bai 2.GeneratedMSBuildEditorConfig.editorconfig
+F:\BUOI 2 KIEU GIU LIEU VA BIEN\buoi3 ham va pham vi truy cap\bai tap buoi 3 bai 2\obj\Debug\net9.0\bai tap buoi 3 bai 2.AssemblyInfoInputs.cache
+F:\BUOI 2 KIEU GIU LIEU VA BIEN\buoi3 ham va pham vi truy cap\bai tap buoi 3 bai 2\obj\Debug\net9.0\bai tap buoi 3 bai 2.AssemblyInfo.cs
+F:\BUOI 2 KIEU GIU LIEU VA BIEN\buoi3 ham va pham vi truy cap\bai tap buoi 3 bai 2\obj\Debug\net9.0\bai tap buoi 3 bai 2.csproj.CoreCompileInputs.cache
+F:\BUOI 2 KIEU GIU LIEU VA BIEN\buoi3 ham va pham vi truy cap\bai tap buoi 3 bai 2\obj\Debug\net9.0\bai tap buoi 3 bai 2.sourcelink.json
+F:\BUOI 2 KIEU GIU LIEU VA BIEN\buoi3 ham va pham vi truy cap\bai tap buoi 3 bai 2\obj\Debug\net9.0\bai tap buoi 3 bai 2.dll
+F:\BUOI 2 KIEU GIU LIEU VA BIEN\buoi3 ham va pham vi truy cap\bai tap buoi 3 bai 2\obj\Debug\net9.0\refint\bai tap buoi 3 bai 2.dll
+F:\BUOI 2 KIEU GIU LIEU VA BIEN\buoi3 ham va pham vi truy cap\bai tap buoi 3 bai 2\obj\Debug\net9.0\bai tap buoi 3 bai 2.pdb
+F:\BUOI 2 KIEU GIU LIEU VA BIEN\buoi3 ham va pham vi truy cap\bai tap buoi 3 bai 2\bin\Debug\net9.0\bai tap buoi 3 bai 2.exe
+F:\BUOI 2 KIEU GIU LIEU VA BIEN\buoi3 ham va pham vi truy cap\bai tap buoi 3 bai 2\bin\Debug\net9.0\bai tap buoi 3 bai 2.deps.json
+F:\BUOI 2 KIEU GIU LIEU VA BIEN\buoi3 ham va pham vi truy cap\bai tap buoi 3 bai 2\bin\Debug\net9.0\bai tap buoi 3 bai 2.runtimeconfig.json
+F:\BUOI 2 KIEU GIU LIEU VA BIEN\buoi3 ham va pham vi truy cap\bai tap buoi 3 bai 2\bin\Debug\net9.0\bai tap buoi 3 bai 2.dll
+F:\BUOI 2 KIEU GIU LIEU VA BIEN\buoi3 ham va pham vi truy cap\bai tap buoi 3 bai 2\bin\Debug\net9.0\bai tap buoi 3 bai 2.pdb
+F:\BUOI 2 KIEU GIU LIEU VA BIEN\buoi3 ham va pham vi truy cap\bai tap buoi 3 bai 2\obj\Debug\net9.0\bai tap buoi 3 bai 2.genruntimeconfig.cache
+F:\BUOI 2 KIEU GIU LIEU VA BIEN\buoi3 ham va pham vi truy cap\bai tap buoi 3 bai 2\obj\Debug\net9.0\ref\bai tap buoi 3 bai 2.dll
+F:\HOC C SHARP\buoi3 ham va pham vi truy cap\bai tap buoi 3 bai 2\bin\Debug\net9.0\bai tap buoi 3 bai 2.exe
+F:\HOC C SHARP\buoi3 ham va pham vi truy cap\bai tap buoi 3 bai 2\bin\Debug\net9.0\bai tap buoi 3 bai 2.deps.json
+F:\HOC C SHARP\buoi3 ham va pham vi truy cap\bai tap buoi 3 bai 2\bin\Debug\net9.0\bai tap buoi 3 bai 2.runtimeconfig.json
+F:\HOC C SHARP\buoi3 ham va pham vi truy cap\bai tap buoi 3 bai 2\bin\Debug\net9.0\bai tap buoi 3 bai 2.dll
+F:\HOC C SHARP\buoi3 ham va pham vi truy cap\bai tap buoi 3 bai 2\bin\Debug\net9.0\bai tap buoi 3 bai 2.pdb
+F:\HOC C SHARP\buoi3 ham va pham vi truy cap\bai tap buoi 3 bai 2\obj\Debug\net9.0\bai tap buoi 3 bai 2.GeneratedMSBuildEditorConfig.editorconfig
+F:\HOC C SHARP\buoi3 ham va pham vi truy cap\bai tap buoi 3 bai 2\obj\Debug\net9.0\bai tap buoi 3 bai 2.AssemblyInfoInputs.cache
+F:\HOC C SHARP\buoi3 ham va pham vi truy cap\bai tap buoi 3 bai 2\obj\Debug\net9.0\bai tap buoi 3 bai 2.AssemblyInfo.cs
+F:\HOC C SHARP\buoi3 ham va pham vi truy cap\bai tap buoi 3 bai 2\obj\Debug\net9.0\bai tap buoi 3 bai 2.csproj.CoreCompileInputs.cache
+F:\HOC C SHARP\buoi3 ham va pham vi truy cap\bai tap buoi 3 bai 2\obj\Debug\net9.0\bai tap buoi 3 bai 2.sourcelink.json
+F:\HOC C SHARP\buoi3 ham va pham vi truy cap\bai tap buoi 3 bai 2\obj\Debug\net9.0\bai tap buoi 3 bai 2.dll
+F:\HOC C SHARP\buoi3 ham va pham vi truy cap\bai tap buoi 3 bai 2\obj\Debug\net9.0\refint\bai tap buoi 3 bai 2.dll
+F:\HOC C SHARP\buoi3 ham va pham vi truy cap\bai tap buoi 3 bai 2\obj\Debug\net9.0\bai tap buoi 3 bai 2.pdb
+F:\HOC C SHARP\buoi3 ham va pham vi truy cap\bai tap buoi 3 bai 2\obj\Debug\net9.0\bai tap buoi 3 bai 2.genruntimeconfig.cache
+F:\HOC C SHARP\buoi3 ham va pham vi truy cap\bai tap buoi 3 bai 2\obj\Debug\net9.0\ref\bai tap buoi 3 bai 2.dll

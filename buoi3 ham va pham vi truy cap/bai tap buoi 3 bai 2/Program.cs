@@ -10,15 +10,16 @@ namespace bai_tap_buoi_3_bai_2
         static void DuLieuVao(out int soDienWH)
         {
             Console.OutputEncoding = Encoding.UTF8;
-            Console.WriteLine("mời nhập vào số ddienje tiêu thụ wh.");
+            Console.WriteLine("mời nhập vào số điện tiêu thụ wh.");
             soDienWH=Convert.ToInt32(Console.ReadLine());
 
         }
-        static double TinhTienDien(ref int soDienKWHLamTron, int soDienWH)
+        static double TinhTienDien(ref  int soDienWH)
         {
-           
-            
-            soDienKWHLamTron=(int)Math.Round((double)soDienWH / WH_TO_KWH);
+
+            double soDienKWH = (double)soDienWH / WH_TO_KWH;
+            int soDienKWHLamTron=(int)Math.Round(soDienKWH);
+            soDienWH = soDienKWHLamTron;
             double tienDien = soDienKWHLamTron * PRICE_PER_KWH;
             return tienDien;
         }
@@ -26,11 +27,11 @@ namespace bai_tap_buoi_3_bai_2
         {
             int soDienWH;
             DuLieuVao(out  soDienWH);
-            int soDienKWHLamTron=0;
-            double tienDien= TinhTienDien(ref soDienKWHLamTron, soDienWH); 
+            
+            double tienDien= TinhTienDien(ref soDienWH); 
 
            
-            Console.WriteLine($"số điện tiêu dùng hết {soDienKWHLamTron} số.");
+            Console.WriteLine($"số điện tiêu dùng hết {soDienWH} số.");
             Console.WriteLine($"số tiền điện là {tienDien} đồng.");
 
         }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\buoi3 ham va pham vi truy cap\\bai tap buoi 3 bai 2\\bai tap buoi 3 bai 2.csproj": {}
+    "F:\\HOC C SHARP\\buoi3 ham va pham vi truy cap\\bai tap buoi 3 bai 2\\bai tap buoi 3 bai 2.csproj": {}
   },
   "projects": {
-    "F:\\buoi3 ham va pham vi truy cap\\bai tap buoi 3 bai 2\\bai tap buoi 3 bai 2.csproj": {
+    "F:\\HOC C SHARP\\buoi3 ham va pham vi truy cap\\bai tap buoi 3 bai 2\\bai tap buoi 3 bai 2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\buoi3 ham va pham vi truy cap\\bai tap buoi 3 bai 2\\bai tap buoi 3 bai 2.csproj",
+        "projectUniqueName": "F:\\HOC C SHARP\\buoi3 ham va pham vi truy cap\\bai tap buoi 3 bai 2\\bai tap buoi 3 bai 2.csproj",
         "projectName": "bai tap buoi 3 bai 2",
-        "projectPath": "F:\\buoi3 ham va pham vi truy cap\\bai tap buoi 3 bai 2\\bai tap buoi 3 bai 2.csproj",
+        "projectPath": "F:\\HOC C SHARP\\buoi3 ham va pham vi truy cap\\bai tap buoi 3 bai 2\\bai tap buoi 3 bai 2.csproj",
         "packagesPath": "C:\\Users\\duong\\.nuget\\packages\\",
-        "outputPath": "F:\\buoi3 ham va pham vi truy cap\\bai tap buoi 3 bai 2\\obj\\",
+        "outputPath": "F:\\HOC C SHARP\\buoi3 ham va pham vi truy cap\\bai tap buoi 3 bai 2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\duong\\AppData\\Roaming\\NuGet\\NuGet.Config",
