@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "buoi4 bai20 dao nguoc 1 so nhap vao/1.0.0": {
+        "runtime": {
+          "buoi4 bai20 dao nguoc 1 so nhap vao.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "buoi4 bai20 dao nguoc 1 so nhap vao/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

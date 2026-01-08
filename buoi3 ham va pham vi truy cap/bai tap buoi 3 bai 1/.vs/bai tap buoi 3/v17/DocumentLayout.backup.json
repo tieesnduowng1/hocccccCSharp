@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "F:\\buoi3 ham va pham vi truy cap\\bai tap buoi 3\\",
+  "WorkspaceRootPath": "F:\\HOC C SHARP\\buoi3 ham va pham vi truy cap\\bai tap buoi 3 bai 1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{22DB1810-99A2-410F-A50B-F3B14132EDA6}|bai tap buoi 3.csproj|f:\\buoi3 ham va pham vi truy cap\\bai tap buoi 3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{22DB1810-99A2-410F-A50B-F3B14132EDA6}|bai tap buoi 3.csproj|f:\\hoc c sharp\\buoi3 ham va pham vi truy cap\\bai tap buoi 3 bai 1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{22DB1810-99A2-410F-A50B-F3B14132EDA6}|bai tap buoi 3.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "F:\\buoi3 ham va pham vi truy cap\\bai tap buoi 3\\Program.cs",
+              "DocumentMoniker": "F:\\HOC C SHARP\\buoi3 ham va pham vi truy cap\\bai tap buoi 3 bai 1\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "F:\\buoi3 ham va pham vi truy cap\\bai tap buoi 3\\Program.cs*",
-              "RelativeToolTip": "Program.cs*",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAxwA4AAAAyAAAAAAAAAA==",
+              "ToolTip": "F:\\HOC C SHARP\\buoi3 ham va pham vi truy cap\\bai tap buoi 3 bai 1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwDsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-04T13:21:32.543Z",
               "EditorCaption": ""

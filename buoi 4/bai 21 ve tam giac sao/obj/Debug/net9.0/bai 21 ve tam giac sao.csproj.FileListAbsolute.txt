@@ -1,0 +1,15 @@
+F:\HOC C SHARP\bai 21 ve tam giac sao\bin\Debug\net9.0\bai 21 ve tam giac sao.exe
+F:\HOC C SHARP\bai 21 ve tam giac sao\bin\Debug\net9.0\bai 21 ve tam giac sao.deps.json
+F:\HOC C SHARP\bai 21 ve tam giac sao\bin\Debug\net9.0\bai 21 ve tam giac sao.runtimeconfig.json
+F:\HOC C SHARP\bai 21 ve tam giac sao\bin\Debug\net9.0\bai 21 ve tam giac sao.dll
+F:\HOC C SHARP\bai 21 ve tam giac sao\bin\Debug\net9.0\bai 21 ve tam giac sao.pdb
+F:\HOC C SHARP\bai 21 ve tam giac sao\obj\Debug\net9.0\bai 21 ve tam giac sao.GeneratedMSBuildEditorConfig.editorconfig
+F:\HOC C SHARP\bai 21 ve tam giac sao\obj\Debug\net9.0\bai 21 ve tam giac sao.AssemblyInfoInputs.cache
+F:\HOC C SHARP\bai 21 ve tam giac sao\obj\Debug\net9.0\bai 21 ve tam giac sao.AssemblyInfo.cs
+F:\HOC C SHARP\bai 21 ve tam giac sao\obj\Debug\net9.0\bai 21 ve tam giac sao.csproj.CoreCompileInputs.cache
+F:\HOC C SHARP\bai 21 ve tam giac sao\obj\Debug\net9.0\bai 21 ve tam giac sao.sourcelink.json
+F:\HOC C SHARP\bai 21 ve tam giac sao\obj\Debug\net9.0\bai 21 ve tam giac sao.dll
+F:\HOC C SHARP\bai 21 ve tam giac sao\obj\Debug\net9.0\refint\bai 21 ve tam giac sao.dll
+F:\HOC C SHARP\bai 21 ve tam giac sao\obj\Debug\net9.0\bai 21 ve tam giac sao.pdb
+F:\HOC C SHARP\bai 21 ve tam giac sao\obj\Debug\net9.0\bai 21 ve tam giac sao.genruntimeconfig.cache
+F:\HOC C SHARP\bai 21 ve tam giac sao\obj\Debug\net9.0\ref\bai 21 ve tam giac sao.dll

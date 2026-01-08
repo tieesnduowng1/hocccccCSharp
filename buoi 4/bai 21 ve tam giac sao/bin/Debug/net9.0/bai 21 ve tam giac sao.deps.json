@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "bai 21 ve tam giac sao/1.0.0": {
+        "runtime": {
+          "bai 21 ve tam giac sao.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "bai 21 ve tam giac sao/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

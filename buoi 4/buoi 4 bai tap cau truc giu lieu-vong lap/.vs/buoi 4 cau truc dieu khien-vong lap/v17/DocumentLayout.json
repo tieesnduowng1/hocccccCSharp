@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\HOC C SHARP\\buoi 4 cau truc giu lieu-vong lap\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CC25440A-D42E-4037-B18B-1B29A32E89EC}|..\\buoi4 bai 23 so doi lap\\buoi4 bai 23 so doi xung.csproj|f:\\hoc c sharp\\buoi4 bai 23 so doi lap\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{947C46F4-7C08-4CAE-8BFC-E3CE36E61EF3}|..\\buoi4 bai 22 tinh giai thua\\buoi4 bai 22 tinh giai thua.csproj|f:\\hoc c sharp\\buoi4 bai 22 tinh giai thua\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5AC23FB-78C8-448B-922F-5B2BACCE0CDB}|..\\bai 21 ve tam giac sao\\bai 21 ve tam giac sao.csproj|f:\\hoc c sharp\\bai 21 ve tam giac sao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F55F009D-BC9B-4B1F-97E7-0B0400099B92}|..\\buoi4 bai20 dao nguoc 1 so nhap vao\\buoi4 bai20 dao nguoc 1 so nhap vao.csproj|f:\\hoc c sharp\\buoi4 bai20 dao nguoc 1 so nhap vao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{871F447F-5C54-4DB8-94A3-738689E550DE}|..\\buoi 4 bai6 tinh tong cac chu  so cu 1 so\\buoi 4 bai19 tinh tong cac chu  so cu 1 so.csproj|f:\\hoc c sharp\\buoi 4 bai6 tinh tong cac chu  so cu 1 so\\buoi 4 bai19 tinh tong cac chu  so cu 1 so.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8120BDA-31B2-4BC0-A143-F591469C60C3}|buoi 4 cau truc dieu khien-vong lap.csproj|f:\\hoc c sharp\\buoi 4 cau truc giu lieu-vong lap\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8120BDA-31B2-4BC0-A143-F591469C60C3}|buoi 4 cau truc dieu khien-vong lap.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8120BDA-31B2-4BC0-A143-F591469C60C3}|buoi 4 cau truc dieu khien-vong lap.csproj|f:\\hoc c sharp\\buoi 4 cau truc giu lieu-vong lap\\buoi 4 cau truc dieu khien-vong lap.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B8120BDA-31B2-4BC0-A143-F591469C60C3}|buoi 4 cau truc dieu khien-vong lap.csproj|solutionrelative:buoi 4 cau truc dieu khien-vong lap.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{871F447F-5C54-4DB8-94A3-738689E550DE}|..\\buoi 4 bai6 tinh tong cac chu  so cu 1 so\\buoi 4 bai19 tinh tong cac chu  so cu 1 so.csproj|f:\\hoc c sharp\\buoi 4 bai6 tinh tong cac chu  so cu 1 so\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "buoi 4 bai19 tinh tong cac chu  so cu 1 so.csproj",
+              "DocumentMoniker": "F:\\HOC C SHARP\\buoi 4 bai6 tinh tong cac chu  so cu 1 so\\buoi 4 bai19 tinh tong cac chu  so cu 1 so.csproj",
+              "RelativeDocumentMoniker": "..\\buoi 4 bai6 tinh tong cac chu  so cu 1 so\\buoi 4 bai19 tinh tong cac chu  so cu 1 so.csproj",
+              "ToolTip": "F:\\HOC C SHARP\\buoi 4 bai6 tinh tong cac chu  so cu 1 so\\buoi 4 bai19 tinh tong cac chu  so cu 1 so.csproj",
+              "RelativeToolTip": "..\\buoi 4 bai6 tinh tong cac chu  so cu 1 so\\buoi 4 bai19 tinh tong cac chu  so cu 1 so.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-07T14:02:04.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\HOC C SHARP\\buoi4 bai 23 so doi lap\\Program.cs",
+              "RelativeDocumentMoniker": "..\\buoi4 bai 23 so doi lap\\Program.cs",
+              "ToolTip": "F:\\HOC C SHARP\\buoi4 bai 23 so doi lap\\Program.cs",
+              "RelativeToolTip": "..\\buoi4 bai 23 so doi lap\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T15:16:52.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\HOC C SHARP\\buoi4 bai 22 tinh giai thua\\Program.cs",
+              "RelativeDocumentMoniker": "..\\buoi4 bai 22 tinh giai thua\\Program.cs",
+              "ToolTip": "F:\\HOC C SHARP\\buoi4 bai 22 tinh giai thua\\Program.cs",
+              "RelativeToolTip": "..\\buoi4 bai 22 tinh giai thua\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T14:59:08.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\HOC C SHARP\\bai 21 ve tam giac sao\\Program.cs",
+              "RelativeDocumentMoniker": "..\\bai 21 ve tam giac sao\\Program.cs",
+              "ToolTip": "F:\\HOC C SHARP\\bai 21 ve tam giac sao\\Program.cs",
+              "RelativeToolTip": "..\\bai 21 ve tam giac sao\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T14:22:21.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\HOC C SHARP\\buoi4 bai20 dao nguoc 1 so nhap vao\\Program.cs",
+              "RelativeDocumentMoniker": "..\\buoi4 bai20 dao nguoc 1 so nhap vao\\Program.cs",
+              "ToolTip": "F:\\HOC C SHARP\\buoi4 bai20 dao nguoc 1 so nhap vao\\Program.cs",
+              "RelativeToolTip": "..\\buoi4 bai20 dao nguoc 1 so nhap vao\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T14:03:50.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\HOC C SHARP\\buoi 4 bai6 tinh tong cac chu  so cu 1 so\\Program.cs",
+              "RelativeDocumentMoniker": "..\\buoi 4 bai6 tinh tong cac chu  so cu 1 so\\Program.cs",
+              "ToolTip": "F:\\HOC C SHARP\\buoi 4 bai6 tinh tong cac chu  so cu 1 so\\Program.cs",
+              "RelativeToolTip": "..\\buoi 4 bai6 tinh tong cac chu  so cu 1 so\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T13:33:07.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "buoi 4 cau truc dieu khien-vong lap.csproj",
+              "DocumentMoniker": "F:\\HOC C SHARP\\buoi 4 cau truc giu lieu-vong lap\\buoi 4 cau truc dieu khien-vong lap.csproj",
+              "RelativeDocumentMoniker": "buoi 4 cau truc dieu khien-vong lap.csproj",
+              "ToolTip": "F:\\HOC C SHARP\\buoi 4 cau truc giu lieu-vong lap\\buoi 4 cau truc dieu khien-vong lap.csproj",
+              "RelativeToolTip": "buoi 4 cau truc dieu khien-vong lap.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-07T13:31:49.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\HOC C SHARP\\buoi 4 cau truc giu lieu-vong lap\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "F:\\HOC C SHARP\\buoi 4 cau truc giu lieu-vong lap\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T13:56:12.036Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+F:\HOC C SHARP\buoi 4 bai6 tinh tong cac chu  so cu 1 so\bin\Debug\net9.0\buoi 4 bai19 tinh tong cac chu  so cu 1 so.exe
+F:\HOC C SHARP\buoi 4 bai6 tinh tong cac chu  so cu 1 so\bin\Debug\net9.0\buoi 4 bai19 tinh tong cac chu  so cu 1 so.deps.json
+F:\HOC C SHARP\buoi 4 bai6 tinh tong cac chu  so cu 1 so\bin\Debug\net9.0\buoi 4 bai19 tinh tong cac chu  so cu 1 so.runtimeconfig.json
+F:\HOC C SHARP\buoi 4 bai6 tinh tong cac chu  so cu 1 so\bin\Debug\net9.0\buoi 4 bai19 tinh tong cac chu  so cu 1 so.dll
+F:\HOC C SHARP\buoi 4 bai6 tinh tong cac chu  so cu 1 so\bin\Debug\net9.0\buoi 4 bai19 tinh tong cac chu  so cu 1 so.pdb
+F:\HOC C SHARP\buoi 4 bai6 tinh tong cac chu  so cu 1 so\obj\Debug\net9.0\buoi 4 bai19 tinh tong cac chu  so cu 1 so.GeneratedMSBuildEditorConfig.editorconfig
+F:\HOC C SHARP\buoi 4 bai6 tinh tong cac chu  so cu 1 so\obj\Debug\net9.0\buoi 4 bai19 tinh tong cac chu  so cu 1 so.AssemblyInfoInputs.cache
+F:\HOC C SHARP\buoi 4 bai6 tinh tong cac chu  so cu 1 so\obj\Debug\net9.0\buoi 4 bai19 tinh tong cac chu  so cu 1 so.AssemblyInfo.cs
+F:\HOC C SHARP\buoi 4 bai6 tinh tong cac chu  so cu 1 so\obj\Debug\net9.0\buoi 4 bai19 tinh tong cac chu  so cu 1 so.csproj.CoreCompileInputs.cache
+F:\HOC C SHARP\buoi 4 bai6 tinh tong cac chu  so cu 1 so\obj\Debug\net9.0\buoi 4 bai19 tinh tong cac chu  so cu 1 so.sourcelink.json
+F:\HOC C SHARP\buoi 4 bai6 tinh tong cac chu  so cu 1 so\obj\Debug\net9.0\buoi 4 bai19 tinh tong cac chu  so cu 1 so.dll
+F:\HOC C SHARP\buoi 4 bai6 tinh tong cac chu  so cu 1 so\obj\Debug\net9.0\refint\buoi 4 bai19 tinh tong cac chu  so cu 1 so.dll
+F:\HOC C SHARP\buoi 4 bai6 tinh tong cac chu  so cu 1 so\obj\Debug\net9.0\buoi 4 bai19 tinh tong cac chu  so cu 1 so.pdb
+F:\HOC C SHARP\buoi 4 bai6 tinh tong cac chu  so cu 1 so\obj\Debug\net9.0\buoi 4 bai19 tinh tong cac chu  so cu 1 so.genruntimeconfig.cache
+F:\HOC C SHARP\buoi 4 bai6 tinh tong cac chu  so cu 1 so\obj\Debug\net9.0\ref\buoi 4 bai19 tinh tong cac chu  so cu 1 so.dll

@@ -1,0 +1,15 @@
+F:\HOC C SHARP\buoi4 bai 23 so doi lap\bin\Debug\net9.0\buoi4 bai 23 so doi xung.exe
+F:\HOC C SHARP\buoi4 bai 23 so doi lap\bin\Debug\net9.0\buoi4 bai 23 so doi xung.deps.json
+F:\HOC C SHARP\buoi4 bai 23 so doi lap\bin\Debug\net9.0\buoi4 bai 23 so doi xung.runtimeconfig.json
+F:\HOC C SHARP\buoi4 bai 23 so doi lap\bin\Debug\net9.0\buoi4 bai 23 so doi xung.dll
+F:\HOC C SHARP\buoi4 bai 23 so doi lap\bin\Debug\net9.0\buoi4 bai 23 so doi xung.pdb
+F:\HOC C SHARP\buoi4 bai 23 so doi lap\obj\Debug\net9.0\buoi4 bai 23 so doi xung.GeneratedMSBuildEditorConfig.editorconfig
+F:\HOC C SHARP\buoi4 bai 23 so doi lap\obj\Debug\net9.0\buoi4 bai 23 so doi xung.AssemblyInfoInputs.cache
+F:\HOC C SHARP\buoi4 bai 23 so doi lap\obj\Debug\net9.0\buoi4 bai 23 so doi xung.AssemblyInfo.cs
+F:\HOC C SHARP\buoi4 bai 23 so doi lap\obj\Debug\net9.0\buoi4 bai 23 so doi xung.csproj.CoreCompileInputs.cache
+F:\HOC C SHARP\buoi4 bai 23 so doi lap\obj\Debug\net9.0\buoi4 bai 23 so doi xung.sourcelink.json
+F:\HOC C SHARP\buoi4 bai 23 so doi lap\obj\Debug\net9.0\buoi4 bai 23 so doi xung.dll
+F:\HOC C SHARP\buoi4 bai 23 so doi lap\obj\Debug\net9.0\refint\buoi4 bai 23 so doi xung.dll
+F:\HOC C SHARP\buoi4 bai 23 so doi lap\obj\Debug\net9.0\buoi4 bai 23 so doi xung.pdb
+F:\HOC C SHARP\buoi4 bai 23 so doi lap\obj\Debug\net9.0\buoi4 bai 23 so doi xung.genruntimeconfig.cache
+F:\HOC C SHARP\buoi4 bai 23 so doi lap\obj\Debug\net9.0\ref\buoi4 bai 23 so doi xung.dll

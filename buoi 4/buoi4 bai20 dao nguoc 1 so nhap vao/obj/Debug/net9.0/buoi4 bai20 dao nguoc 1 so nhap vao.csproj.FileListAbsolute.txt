@@ -1,0 +1,15 @@
+F:\HOC C SHARP\buoi4 bai20 dao nguoc 1 so nhap vao\bin\Debug\net9.0\buoi4 bai20 dao nguoc 1 so nhap vao.exe
+F:\HOC C SHARP\buoi4 bai20 dao nguoc 1 so nhap vao\bin\Debug\net9.0\buoi4 bai20 dao nguoc 1 so nhap vao.deps.json
+F:\HOC C SHARP\buoi4 bai20 dao nguoc 1 so nhap vao\bin\Debug\net9.0\buoi4 bai20 dao nguoc 1 so nhap vao.runtimeconfig.json
+F:\HOC C SHARP\buoi4 bai20 dao nguoc 1 so nhap vao\bin\Debug\net9.0\buoi4 bai20 dao nguoc 1 so nhap vao.dll
+F:\HOC C SHARP\buoi4 bai20 dao nguoc 1 so nhap vao\bin\Debug\net9.0\buoi4 bai20 dao nguoc 1 so nhap vao.pdb
+F:\HOC C SHARP\buoi4 bai20 dao nguoc 1 so nhap vao\obj\Debug\net9.0\buoi4 bai20 dao nguoc 1 so nhap vao.GeneratedMSBuildEditorConfig.editorconfig
+F:\HOC C SHARP\buoi4 bai20 dao nguoc 1 so nhap vao\obj\Debug\net9.0\buoi4 bai20 dao nguoc 1 so nhap vao.AssemblyInfoInputs.cache
+F:\HOC C SHARP\buoi4 bai20 dao nguoc 1 so nhap vao\obj\Debug\net9.0\buoi4 bai20 dao nguoc 1 so nhap vao.AssemblyInfo.cs
+F:\HOC C SHARP\buoi4 bai20 dao nguoc 1 so nhap vao\obj\Debug\net9.0\buoi4 bai20 dao nguoc 1 so nhap vao.csproj.CoreCompileInputs.cache
+F:\HOC C SHARP\buoi4 bai20 dao nguoc 1 so nhap vao\obj\Debug\net9.0\buoi4 bai20 dao nguoc 1 so nhap vao.sourcelink.json
+F:\HOC C SHARP\buoi4 bai20 dao nguoc 1 so nhap vao\obj\Debug\net9.0\buoi4 bai20 dao nguoc 1 so nhap vao.dll
+F:\HOC C SHARP\buoi4 bai20 dao nguoc 1 so nhap vao\obj\Debug\net9.0\refint\buoi4 bai20 dao nguoc 1 so nhap vao.dll
+F:\HOC C SHARP\buoi4 bai20 dao nguoc 1 so nhap vao\obj\Debug\net9.0\buoi4 bai20 dao nguoc 1 so nhap vao.pdb
+F:\HOC C SHARP\buoi4 bai20 dao nguoc 1 so nhap vao\obj\Debug\net9.0\buoi4 bai20 dao nguoc 1 so nhap vao.genruntimeconfig.cache
+F:\HOC C SHARP\buoi4 bai20 dao nguoc 1 so nhap vao\obj\Debug\net9.0\ref\buoi4 bai20 dao nguoc 1 so nhap vao.dll

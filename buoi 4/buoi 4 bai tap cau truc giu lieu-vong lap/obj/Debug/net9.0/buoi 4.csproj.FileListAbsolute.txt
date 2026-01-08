@@ -1,0 +1,15 @@
+F:\HOC C SHARP\buoi 4\obj\Debug\net9.0\buoi 4.GeneratedMSBuildEditorConfig.editorconfig
+F:\HOC C SHARP\buoi 4\obj\Debug\net9.0\buoi 4.AssemblyInfoInputs.cache
+F:\HOC C SHARP\buoi 4\obj\Debug\net9.0\buoi 4.AssemblyInfo.cs
+F:\HOC C SHARP\buoi 4\obj\Debug\net9.0\buoi 4.csproj.CoreCompileInputs.cache
+F:\HOC C SHARP\buoi 4\obj\Debug\net9.0\buoi 4.sourcelink.json
+F:\HOC C SHARP\buoi 4\bin\Debug\net9.0\buoi 4.exe
+F:\HOC C SHARP\buoi 4\bin\Debug\net9.0\buoi 4.deps.json
+F:\HOC C SHARP\buoi 4\bin\Debug\net9.0\buoi 4.runtimeconfig.json
+F:\HOC C SHARP\buoi 4\bin\Debug\net9.0\buoi 4.dll
+F:\HOC C SHARP\buoi 4\bin\Debug\net9.0\buoi 4.pdb
+F:\HOC C SHARP\buoi 4\obj\Debug\net9.0\buoi 4.dll
+F:\HOC C SHARP\buoi 4\obj\Debug\net9.0\refint\buoi 4.dll
+F:\HOC C SHARP\buoi 4\obj\Debug\net9.0\buoi 4.pdb
+F:\HOC C SHARP\buoi 4\obj\Debug\net9.0\buoi 4.genruntimeconfig.cache
+F:\HOC C SHARP\buoi 4\obj\Debug\net9.0\ref\buoi 4.dll

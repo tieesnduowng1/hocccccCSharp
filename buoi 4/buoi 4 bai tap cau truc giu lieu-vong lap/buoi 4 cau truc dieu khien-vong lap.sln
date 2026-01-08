@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36518.9
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "buoi 4 cau truc dieu khien-vong lap", "buoi 4 cau truc dieu khien-vong lap.csproj", "{B8120BDA-31B2-4BC0-A143-F591469C60C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "buoi 4 bai19 tinh tong cac chu  so cu 1 so", "..\buoi 4 bai6 tinh tong cac chu  so cu 1 so\buoi 4 bai19 tinh tong cac chu  so cu 1 so.csproj", "{871F447F-5C54-4DB8-94A3-738689E550DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "buoi4 bai20 dao nguoc 1 so nhap vao", "..\buoi4 bai20 dao nguoc 1 so nhap vao\buoi4 bai20 dao nguoc 1 so nhap vao.csproj", "{F55F009D-BC9B-4B1F-97E7-0B0400099B92}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bai 21 ve tam giac sao", "..\bai 21 ve tam giac sao\bai 21 ve tam giac sao.csproj", "{B5AC23FB-78C8-448B-922F-5B2BACCE0CDB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "buoi4 bai 22 tinh giai thua", "..\buoi4 bai 22 tinh giai thua\buoi4 bai 22 tinh giai thua.csproj", "{947C46F4-7C08-4CAE-8BFC-E3CE36E61EF3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "buoi4 bai 23 so doi xung", "..\buoi4 bai 23 so doi lap\buoi4 bai 23 so doi xung.csproj", "{CC25440A-D42E-4037-B18B-1B29A32E89EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8120BDA-31B2-4BC0-A143-F591469C60C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8120BDA-31B2-4BC0-A143-F591469C60C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8120BDA-31B2-4BC0-A143-F591469C60C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8120BDA-31B2-4BC0-A143-F591469C60C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{871F447F-5C54-4DB8-94A3-738689E550DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{871F447F-5C54-4DB8-94A3-738689E550DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{871F447F-5C54-4DB8-94A3-738689E550DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{871F447F-5C54-4DB8-94A3-738689E550DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F55F009D-BC9B-4B1F-97E7-0B0400099B92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F55F009D-BC9B-4B1F-97E7-0B0400099B92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F55F009D-BC9B-4B1F-97E7-0B0400099B92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F55F009D-BC9B-4B1F-97E7-0B0400099B92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5AC23FB-78C8-448B-922F-5B2BACCE0CDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5AC23FB-78C8-448B-922F-5B2BACCE0CDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5AC23FB-78C8-448B-922F-5B2BACCE0CDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5AC23FB-78C8-448B-922F-5B2BACCE0CDB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{947C46F4-7C08-4CAE-8BFC-E3CE36E61EF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{947C46F4-7C08-4CAE-8BFC-E3CE36E61EF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{947C46F4-7C08-4CAE-8BFC-E3CE36E61EF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{947C46F4-7C08-4CAE-8BFC-E3CE36E61EF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC25440A-D42E-4037-B18B-1B29A32E89EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC25440A-D42E-4037-B18B-1B29A32E89EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC25440A-D42E-4037-B18B-1B29A32E89EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC25440A-D42E-4037-B18B-1B29A32E89EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8D2D6660-6D1B-4626-B02C-2169EAD8FDAA}
+	EndGlobalSection
+EndGlobal
